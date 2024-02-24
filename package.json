@@ -1,0 +1,26 @@
+{
+  "name": "nusplanner",
+  "version": "1.0.0",
+  "description": "Course planner for NUS Students",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/cli": "^7.23.9",
+    "@babel/core": "^7.23.9",
+    "@babel/preset-typescript": "^7.23.3",
+    "@types/node": "^20.11.19",
+    "@types/node-fetch": "^2.6.11",
+    "node-fetch": "^3.3.2"
+  },
+  "type": "module",
+  "dependencies": {
+    "@types/axios": "^0.14.0",
+    "@types/lodash": "^4.14.202",
+    "axois": "^0.0.1-security",
+    "lodash": "^4.17.21"
+  }
+}
